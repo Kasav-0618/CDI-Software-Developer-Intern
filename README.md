@@ -33,7 +33,10 @@ python benchmark.py
 python app.py
 ```
 Open your browser and navigate to:
-👉 **[http://localhost:8000](http://localhost:8000)**
+👉 http://localhost:8000
+
+Demo Video
+https://youtu.be/bUIuqYtMKnU
 
 ---
 
